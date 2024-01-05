@@ -1,0 +1,9 @@
+let divinformation=document.getElementById("divinfo");
+divinformation.style.backgroundColor="yellow";
+divinformation.style.margin="20px";
+divinformation.style.padding="10px";
+divinformation.style.fontSize="18px";
+divinformation.style.fontWeight="bold";
+divinformation.style.height="200px";
+divinformation.style.width="300px";
+divinformation.style.color="blue";
